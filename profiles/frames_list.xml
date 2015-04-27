@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <loop>false</loop>
+  <repeat_times>1</repeat_times>
+  <repeat_period>500</repeat_period>
+  <frames_list>
+    <frame name="1 Device Announce">
+      <payload>7E002011AA0000000000000000FFFC0000001300000000ABDFA4BE658B4000A212000165</payload>
+    </frame>
+    <frame name="2 Active Endpoints Response">
+      <payload>7E001A11040000000000000000000000008005000000000300DFA40108D6</payload>
+    </frame>
+    <frame name="3 SImple Descriptor Response">
+      <payload>7E002711020000000000000000FFFE00008004000000000D00DFA40E080401020030030000030006000082</payload>
+    </frame>
+  </frames_list>
+</data>
